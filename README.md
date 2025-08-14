@@ -11,6 +11,9 @@
 
 
 
+<p align="center">
+  <img src="https://media2.giphy.com/media/l0IyeheChYxx2byDu/giphy.gif" alt="Rotating Turbo Fan" width="300" />
+</p>
 
 
 
