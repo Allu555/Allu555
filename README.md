@@ -30,6 +30,9 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/HZeTeECx5RtAhQ8Dz2/giphy.gif" alt="Cyber Data Stream Animation" width="600" />
+</p>
 
 <!-- Matrix Banner -->
 <p align="center">
