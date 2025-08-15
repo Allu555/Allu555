@@ -52,8 +52,8 @@
 ## 🌐 Connect
 <p align="center">
   <a href="https://twitter.com/allu_codes"><img src="https://img.shields.io/badge/Twitter-111?style=for-the-badge&logo=twitter&logoColor=00acee" /></a>
-  <a href="https://www.linkedin.com/in/alameen-najeeb"><img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin&logoColor=0e76a8" /></a>
-  <a href="https://instagram.com/allu.codes"><img src="https://img.shields.io/badge/Instagram-111?style=for-the-badge&logo=instagram&logoColor=E4405F" /></a>
+  <a href="https://www.linkedin.com/in/alameen-najeeb-4145022b2/"><img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin&logoColor=0e76a8" /></a>
+  <a href="https://instagram.com/allu_4_4_4"><img src="https://img.shields.io/badge/Instagram-111?style=for-the-badge&logo=instagram&logoColor=E4405F" /></a>
   <a href="mailto:cyberallu8@gmail.com"><img src="https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
 </p>
 
@@ -73,7 +73,7 @@
 
 ---
 
-## 📊 GitHub Mojo
+## 📊 GitHub StaTS
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Allu555&theme=react-dark&hide_border=true&area=true" width="100%"/>
   <img src="https://github-readme-stats.vercel.app/api?username=Allu555&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
