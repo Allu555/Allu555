@@ -114,8 +114,9 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E0F10,100:00FF9C&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=120&section=footer"/>
 </p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00FF9C&center=true&vCenter=true&width=650&lines=Connection+terminated.;Session+closed.;Stay+anonymous.+Stay+secure." alt="Footer Typing Animation" />
