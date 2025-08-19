@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="./assets/header_.png" alt="Tech Banner" width="100%" />
+</p>
+
+
+
 <!-- Cyberpunk / Hacking themed GitHub Profile README for Allu -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Allu555/assets/main/neon-grid-bg.gif" width="100%" alt="Neon Grid Background"/>
