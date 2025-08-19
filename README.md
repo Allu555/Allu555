@@ -75,6 +75,11 @@
   <img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" width="48" height="48" alt="Hydra" />
 </p>
 
+<!-- 🐍 GitHub Contribution Snake -->
+![GitHub Contribution Snake](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
+
+<!-- 🐍 Dark Mode Snake -->
+![GitHub Contribution Snake Dark](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake-dark.svg)
 
 
 ---
