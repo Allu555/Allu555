@@ -48,7 +48,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 🔭 Currently hacking on: **Automated Threat Intelligence Dashboard**  
+- 🔭 Currently working on: **Web-based Testing **  
 - 🌱 Interests: **Cybersecurity, AI/ML, Web Performance Optimization**  
 - 📬 Reach me: **[cyberallu8@gmai.com](mailto:cyberallu8@gmail.com)**  
 - 🧪 Portfolio: **[https://allu.dev](https://allu.dev)**  
