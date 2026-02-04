@@ -1,9 +1,4 @@
 <a href="https://github.com/Allu555/Allu555">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xxspell/xxspell/main/dark_mode.svg">
-    <img alt="xxspell GitHub Profile README" src="https://raw.githubusercontent.com/xxspell/xxspell/main/light_mode.svg">
-  </picture>
-</a>
   
   <p align="center">
   <img src="./assets/header_.png" alt="Tech Banner" width="100%" />
