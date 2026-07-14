@@ -5,9 +5,9 @@
 </p> -->
 
 <p align="center">
-  <a href="https://github.com/Allu555/Allu555">
-    <img src="assets/make_this_animation_gif_202607141941.gif" width="100%" alt="Animated Banner">
-  </a>
+  <img src="./assets/make_this_animation_gif_202607141941.gif"
+       alt="Animated Banner"
+       width="80%">
 </p>
 
 <!-- Cyberpunk / Hacking themed GitHub Profile README for Allu -->
