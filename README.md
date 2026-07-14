@@ -1,10 +1,14 @@
-<a href="https://github.com/Allu555/Allu555">
+<!-- <a href="https://github.com/Allu555/Allu555">
   
   <p align="center">
   <img src="./assets/header_.png" alt="Tech Banner" width="100%" />
+</p> -->
+
+<p align="center">
+  <a href="https://github.com/Allu555/Allu555">
+    <img src="assets/make_this_animation_gif_202607141941.gif" width="100%" alt="Animated Banner">
+  </a>
 </p>
-
-
 
 <!-- Cyberpunk / Hacking themed GitHub Profile README for Allu -->
 <p align="center">
